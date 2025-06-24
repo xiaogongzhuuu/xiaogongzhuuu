@@ -36,7 +36,7 @@
 
 ### 📫 联系我
 
-- 🐦 X（Twitter）：[@xiaogongzhuuu](https://x.com/xiaogongzhuuu)
+- 📬 Telegram：[@xiaogongzhuuuuu](https://t.me/xiaogongzhuuuuu)
 
 ---
 
