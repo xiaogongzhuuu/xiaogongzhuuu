@@ -56,5 +56,3 @@ Focused on becoming a well-rounded AI Application Engineer through:
 ---
 
 > *"Building the bridge between AI innovation and real-world impact, one application at a time."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=xiaogongzhuuu&color=brightgreen)
