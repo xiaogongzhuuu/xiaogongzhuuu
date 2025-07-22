@@ -1,32 +1,60 @@
-👋 Hello! I'm xiaogongzhuuu
+# 👋 Hello! I'm xiaogongzhuuu
 
-🎓 Hi, I’m a 19-year-old AI major from Shanghai University, with a strong focus on AI application development. My main interests lie in applying artificial intelligence to solve real-world problems and building practical AI solutions.
+🎓 **AI major at Shanghai University**, aspiring **AI Application Engineer** with a passion for building practical AI solutions that solve real-world problems.
 
-📚 Areas of Focus
+## 📚 Current Learning Focus
 
-- Python programming and engineering practices
-- Machine Learning & Deep Learning (mainly with PyTorch)
-- Version control and collaboration with Git and GitHub
-- Data processing & Jupyter Notebook workflows
-- Exploring Hugging Face and Transformer architectures for applied tasks
+**AI Engineering Stack:**
+- Python programming and ML engineering practices
+- Machine Learning & Deep Learning with PyTorch
+- Model deployment and productionization workflows
+- Transformer architectures and Hugging Face ecosystem
+- Data processing with Pandas, NumPy, and Jupyter
 
-🛠️ Current Projects
+**Application Development:**
+- Backend APIs with FastAPI for AI model serving
+- Database integration (MySQL) for data storage
+- RESTful API design for AI service endpoints
+- Version control and MLOps practices with Git/GitHub
 
-While I haven't released any official projects yet, I am:
+## 🛠️ Projects & Learning Journey
 
-- Conducting hands-on AI application experiments with Python and PyTorch
-- Systematically organizing my study notes and code exercises
-- Preparing small-scale projects like image classification, model fine-tuning, and other AI-powered applications
-- Planning to share practical projects as they mature
+**Recent Projects:**
+- **AI-Powered Message System**: FastAPI + MySQL backend with plans for AI content moderation
+- **ML Model Experiments**: PyTorch implementations for image classification and NLP tasks
+- **Learning Portfolio**: Systematic documentation of AI engineering practices and code patterns
 
-🌱 My Goals
+**Next Steps:**
+- Developing AI applications with model serving capabilities
+- Exploring MLOps tools for model deployment and monitoring
+- Building production-ready AI services with proper API design
 
-- Master AI engineering skills with a focus on application-layer development
-- Independently deliver useful and innovative AI mini-projects
-- Participate in competitions or internships to gain industry experience
+## 🌱 Career Vision: AI Application Engineer
 
-📫 Contact
+**Target Role**: Bridging the gap between AI research and practical applications by building scalable, user-friendly AI systems.
 
-- 📬 Telegram: @xiaogongzhuuuuu
+**Development Path:**
+- **Foundation** (Current): Mastering core AI/ML concepts and engineering practices
+- **Application** (Near-term): Building end-to-end AI applications with proper deployment
+- **Specialization** (Future): Focus on AI system architecture and production optimization
+- **Industry Impact** (Goal): Contributing to meaningful AI solutions in real-world scenarios
 
-> “Every expert was once a beginner.”
+## 📈 Learning & Growth Mindset
+
+Focused on becoming a well-rounded AI Application Engineer through:
+- **Technical Depth**: Building strong foundations in ML/DL and software engineering
+- **Practical Experience**: Creating deployable AI applications, not just research experiments
+- **Industry Readiness**: Understanding production workflows, MLOps, and system design
+- **Continuous Learning**: Staying updated with latest AI technologies and best practices
+
+## 📫 Connect With Me
+
+- 📬 **Telegram**: @xiaogongzhuuuuu
+- 🎓 **Institution**: Shanghai University, AI Major
+- 📍 **Location**: Shanghai, China
+
+---
+
+> *"Building the bridge between AI innovation and real-world impact, one application at a time."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=xiaogongzhuuu&color=brightgreen)
