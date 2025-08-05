@@ -1,48 +1,41 @@
-# 👋 Hello! I'm xiaogongzhuuu
+# 👋 Hi, I'm Siyuan Cao (xiaogongzhuuu)
 
-🎓 **AI major at Shanghai University**, aspiring **AI Application Engineer** with a passion for building practical AI solutions that solve real-world problems.
+**AI Major Freshman @ Shanghai University**  
+📬 Telegram: @xiaogongzhuuuuu | 📍 Shanghai, China
 
-## 📚 Current Learning Focus
+## 🎯 About Me
+Exploring the fascinating world of AI engineering through hands-on projects. Still learning, but passionate about building AI solutions that solve real problems!
 
-**AI Engineering Stack:**
-- Python programming and ML engineering practices
-- Machine Learning & Deep Learning with PyTorch
-- Model deployment and productionization workflows
-- Transformer architectures and Hugging Face ecosystem
-- Data processing with Pandas, NumPy, and Jupyter
+## 🛠️ Tech Stack (Work in Progress)
 
-**Application Development:**
-- Backend APIs with FastAPI for AI model serving
-- Database integration (MySQL) for data storage
-- RESTful API design for AI service endpoints
-- Version control and MLOps practices with Git/GitHub
+**Languages:** Python, JavaScript, SQL  
+**AI/ML:** PyTorch, Transformers, OpenAI API, LangChain  
+**Development:** FastAPI, MySQL, Git, Streamlit  
 
-## 🛠️ Projects & Learning Journey
+## 💻 Recent Projects
 
-**Recent Projects:**
-- **AI-Powered Message System**: FastAPI + MySQL backend with plans for AI content moderation
-- **ML Model Experiments**: PyTorch implementations for image classification and NLP tasks
-- **Learning Portfolio**: Systematic documentation of AI engineering practices and code patterns
+### 🤖 RAG Document Q&A System
+AI-powered document retrieval and question answering with LangChain + OpenAI
+- Supports document upload and semantic search
+- Live demo on [Hugging Face Spaces](https://huggingface.co/spaces/xiaogongzhuuu/rag) 
+- **Learned:** Vector retrieval, API integration, web deployment
 
-**Next Steps:**
-- Developing AI applications with model serving capabilities
-- Exploring MLOps tools for model deployment and monitoring
-- Building production-ready AI services with proper API design
+### 📝 Message Management System
+Full-stack web application with FastAPI + MySQL
+- RESTful API design with CRUD operations
+- **Learned:** Backend development, database operations, API design
 
-## 📈 Learning & Growth Mindset
+### 💬 AI Chatbots
+Multiple conversational AI applications using OpenAI API
+- First-principles thinking assistant, educational chatbots
+- **Learned:** Prompt engineering, conversation system design
 
-Focused on becoming a well-rounded AI Application Engineer through:
-- **Technical Depth**: Building strong foundations in ML/DL and software engineering
-- **Practical Experience**: Creating deployable AI applications, not just research experiments
-- **Industry Readiness**: Understanding production workflows, MLOps, and system design
-- **Continuous Learning**: Staying updated with latest AI technologies and best practices
+## 🤝 Looking to Connect With
 
-## 📫 Connect With Me
-
-- 📬 **Telegram**: @xiaogongzhuuuuu
-- 🎓 **Institution**: Shanghai University, AI Major
-- 📍 **Location**: Shanghai, China
+- Fellow students interested in AI and tech
+- Experienced developers willing to share insights
+- Mentors open to collaboration opportunities
 
 ---
 
-> *"Building the bridge between AI innovation and real-world impact, one application at a time."*
+*Always curious, always building something new in AI*
