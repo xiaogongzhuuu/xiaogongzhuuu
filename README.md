@@ -4,13 +4,12 @@
 📬 Telegram: @xiaogongzhuuuuu | 📍 Shanghai, China
 
 ## 🎯 About Me
-Exploring the fascinating world of AI engineering through hands-on projects. Still learning, but passionate about building AI solutions that solve real problems!
+Exploring AI engineering through hands-on projects. Still learning, but passionate about building solutions that solve real problems!
 
-## 🛠️ Tech Stack (Work in Progress)
-
+## 🛠️ Tech Stack
 **Languages:** Python, JavaScript, SQL  
 **AI/ML:** PyTorch, Transformers, OpenAI API, LangChain  
-**Development:** FastAPI, MySQL, Git, Streamlit  
+**Development:** FastAPI, MySQL, Streamlit  
 
 ## 💻 Recent Projects
 
@@ -18,24 +17,21 @@ Exploring the fascinating world of AI engineering through hands-on projects. Sti
 AI-powered document retrieval and question answering with LangChain + OpenAI
 - Supports document upload and semantic search
 - Live demo on [Hugging Face Spaces](https://huggingface.co/spaces/xiaogongzhuuu/rag) 
-- **Learned:** Vector retrieval, API integration, web deployment
+
+### 🧠 ChatGLM LoRA Fine-tuning
+Fine-tuned ChatGLM3-6B with LoRA technique on Chinese instruction dataset
+- Low-cost training with 90% fewer parameters
+- Web interface for model interaction
 
 ### 📝 Message Management System
 Full-stack web application with FastAPI + MySQL
 - RESTful API design with CRUD operations
-- **Learned:** Backend development, database operations, API design
+- Frontend interface for testing
 
-### 💬 AI Chatbots
-Multiple conversational AI applications using OpenAI API
-- First-principles thinking assistant, educational chatbots
-- **Learned:** Prompt engineering, conversation system design
-
-## 🤝 Looking to Connect With
-
+## 🤝 Looking to Connect
 - Fellow students interested in AI and tech
 - Experienced developers willing to share insights
 - Mentors open to collaboration opportunities
 
 ---
-
 *Always curious, always building something new in AI*
