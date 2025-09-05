@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Siyuan Cao (xiaogongzhuuu)
 
-**AI Major Freshman @ Shanghai University**  
+**AI Major @ Shanghai University**  
 📬 Telegram: @xiaogongzhuuuuu | 📍 Shanghai, China
 
 ## 🎯 About Me
