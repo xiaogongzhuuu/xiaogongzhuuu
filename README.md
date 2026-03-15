@@ -1,37 +1,24 @@
-# 👋 Hi, I'm Siyuan Cao (xiaogongzhuuu)
+# Siyuan Cao
 
-**AI Major @ Shanghai University**  
-📬 Telegram: @xiaogongzhuuuuu | 📍 Shanghai, China
-
-## 🎯 About Me
-Exploring AI engineering through hands-on projects. Still learning, but passionate about building solutions that solve real problems!
-
-## 🛠️ Tech Stack
-**Languages:** Python, JavaScript, SQL  
-**AI/ML:** PyTorch, Transformers, OpenAI API, LangChain  
-**Development:** FastAPI, MySQL, Streamlit  
-
-## 💻 Recent Projects
-
-### 🤖 RAG Document Q&A System
-AI-powered document retrieval and question answering with LangChain + OpenAI
-- Supports document upload and semantic search
-- Live demo on [Hugging Face Spaces](https://huggingface.co/spaces/xiaogongzhuuu/rag) 
-
-### 🧠 ChatGLM LoRA Fine-tuning
-Fine-tuned ChatGLM3-6B with LoRA technique on Chinese instruction dataset
-- Low-cost training with 90% fewer parameters
-- Web interface for model interaction
-
-### 📝 Message Management System
-Full-stack web application with FastAPI + MySQL
-- RESTful API design with CRUD operations
-- Frontend interface for testing
-
-## 🤝 Looking to Connect
-- Fellow students interested in AI and tech
-- Experienced developers willing to share insights
-- Mentors open to collaboration opportunities
+AI · Shanghai University · Building things with language models
 
 ---
-*Always curious, always building something new in AI*
+
+专注于大语言模型的工程实践，方向涵盖 RAG、模型微调与 AI 应用开发。  
+关注 AI 技术的落地路径与商业化可能性。
+
+## 做过的东西
+
+**RAG 文档问答系统**  
+LangChain + GPT-4，语义检索与通用问答自动切换，部署在 Hugging Face Spaces
+
+**ChatGLM LoRA 微调**  
+对 ChatGLM3-6B 做指令微调，探索低成本训练大模型的方式
+
+**AI 生成文本检测**  
+结合语义嵌入与统计特征做文本分类，用于识别 AI 生成内容
+
+## 找我
+
+Telegram: [@xiaogongzhuuuuu](https://t.me/xiaogongzhuuuuu)  
+Hugging Face: [xiaogongzhuuu](https://huggingface.co/xiaogongzhuuu)
