@@ -4,8 +4,7 @@ AI · Shanghai University · Building things with language models
 
 ---
 
-专注于大语言模型的工程实践，方向涵盖 RAG、模型微调与 AI 应用开发。  
-关注 AI 技术的落地路径与商业化可能性。
+专注于 AI 应用开发与产品实践，关注技术落地与用户体验的交叉地带。
 
 ## 做过的东西
 
