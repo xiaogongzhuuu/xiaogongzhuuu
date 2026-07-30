@@ -32,5 +32,4 @@ FastAPI + MySQL RESTful API，前后端分离的 Web 应用实践
 
 ## Contact
 
-- Telegram: [@xiaogongzhuuuuu](https://t.me/xiaogongzhuuuuu)
 - Hugging Face: [xiaogongzhuuu](https://huggingface.co/xiaogongzhuuu)
