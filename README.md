@@ -26,7 +26,6 @@
 
 - **[AI 文本检测](https://github.com/xiaogongzhuuu/mercor-ai-text-detection)** — 语义嵌入 + 统计特征融合的文本鉴伪
 - **[ChatGLM LoRA 微调](https://github.com/xiaogongzhuuu/chatglm-lora-demo)** — 指令微调 + Streamlit 对话界面
-- **[数学建模](https://github.com/xiaogongzhuuu/cumcm-2025-b)** — 国赛 B 题，红外干涉光谱法测量外延层厚度
 
 ---
 
