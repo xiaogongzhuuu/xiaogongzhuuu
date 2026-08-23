@@ -51,7 +51,5 @@
 
 ## 联系
 
-- GitHub: [@xiaogongzhuuu](https://github.com/xiaogongzhuuu)
-- Hugging Face: [xiaogongzhuuu](https://huggingface.co/xiaogongzhuuu)
 - 个人博客: [一只老红薯](https://xiaogongzhuuu.github.io/)
 - 小红书: [一只老红薯](https://www.xiaohongshu.com/user/profile/6301d55f0000000012001c6a)
