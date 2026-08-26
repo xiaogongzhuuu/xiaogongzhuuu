@@ -4,7 +4,7 @@
 
 上海大学人工智能专业本科生。专注 LLM 应用开发，把 AI 能力变成真实场景里可用的工具；同时持续记录 AI 行业的落地观察与产品思考。
 
-📮 博客：[一只老红薯](https://xiaogongzhuuu.github.io/) · 小红书：[一只老红薯](https://www.xiaohongshu.com/user/profile/6301d55f0000000012001c6a)
+博客：[一只老红薯](https://xiaogongzhuuu.github.io/) · 小红书：[一只老红薯](https://www.xiaohongshu.com/user/profile/6301d55f0000000012001c6a)
 
 ---
 
