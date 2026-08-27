@@ -20,6 +20,14 @@
 - 冲刺 / 匹配 / 保底三档分级
 - 流式生成推荐报告
 
+### [AI 智能选校测评](https://github.com/xiaogongzhuuu/study-abroad-evaluation) — DeepSeek · FastAPI · SQLite · JavaScript
+
+面向留学业务的轻量测评与线索转化应用。学生约 30 秒填写申请背景，即可获得冲刺、匹配、保底三档共 6 所院校建议。
+
+- 服务端保存报告并关联留资，形成测评 → 解锁 → 跟进闭环
+- 企业微信群与邮件异步通知顾问
+- 口令保护的线索管理后台，支持统计与 CSV 导出
+
 ### [医学知识图谱 + RAG 混合问答](https://github.com/xiaogongzhuuu/data-mining-course) — Neo4j · ChromaDB · LLM
 
 面向中医名医经验传承场景。大模型实体抽取构建 Neo4j 知识图谱，结合 ChromaDB 向量检索，实现结构化推理与非结构化检索的混合问答。
