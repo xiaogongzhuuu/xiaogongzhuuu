@@ -19,7 +19,7 @@
 - 支持顾问后台、CSV 导出、企业微信和邮件通知
 - 提供自动化测试、接口限流、数据库备份与 HTTPS 部署模板
 
-### [MDT 医疗多智能体平台](https://github.com/rickyxcoder/mdtagentplatform)
+### [MDT 医疗多智能体平台](https://github.com/xiaogongzhuuu/mdtagentplatform)
 
 **LangGraph · LangChain · pgvector · PostgreSQL**
 
