@@ -8,17 +8,6 @@
 
 ## Projects
 
-### [AI 智能选校测评](https://github.com/xiaogongzhuuu/study-abroad-evaluation)
-
-**DeepSeek · FastAPI · SQLite · Docker**
-
-面向留学咨询业务的轻量 AI 应用，将背景测评、报告解锁、线索沉淀和顾问跟进连接成完整流程。
-
-- 对模型生成的档位、数量、空值和重复院校进行结构化校验
-- 通过服务端报告 ID 关联测评结果与联系方式
-- 支持顾问后台、CSV 导出、企业微信和邮件通知
-- 提供自动化测试、接口限流、数据库备份与 HTTPS 部署模板
-
 ### [MDT 医疗多智能体平台](https://github.com/xiaogongzhuuu/mdtagentplatform)
 
 **LangGraph · LangChain · pgvector · PostgreSQL**
@@ -30,6 +19,17 @@
 - 结合向量检索、全文检索与 RRF 融合，并支持检索降级
 - 参与文献知识图谱、证据浏览和平台功能迭代
 
+### [AI 智能选校测评](https://github.com/xiaogongzhuuu/study-abroad-evaluation)
+
+**DeepSeek · FastAPI · SQLite · Docker**
+
+面向留学咨询业务的轻量 AI 应用，将背景测评、报告解锁、线索沉淀和顾问跟进连接成完整流程。
+
+- 对模型生成的档位、数量、空值和重复院校进行结构化校验
+- 通过服务端报告 ID 关联测评结果与联系方式
+- 支持顾问后台、CSV 导出、企业微信和邮件通知
+- 提供自动化测试、接口限流、数据库备份与 HTTPS 部署模板
+
 ### [智能选校 Agent](https://github.com/xiaogongzhuuu/tucebida-study-abroad)
 
 **DeepSeek · BGE-M3 · ChromaDB · FastAPI**
@@ -39,12 +39,6 @@
 - 整理并统一 116 个研究生项目，覆盖英港新 33 所院校
 - 结合向量检索、元数据过滤与规则评分召回候选项目
 - 实现学生画像提取、冲刺 / 匹配 / 保底分级和 SSE 流式报告
-
-### [医学知识图谱与 RAG 问答](https://github.com/xiaogongzhuuu/data-mining-course)
-
-**Neo4j · ChromaDB · PyTorch · LLM**
-
-从文本分类、实体关系抽取和知识图谱构建，到中医文档检索问答的一组实践。
 
 ## Tech Stack
 
