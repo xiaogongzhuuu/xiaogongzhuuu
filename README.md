@@ -8,36 +8,37 @@
 
 ## Projects
 
-### [智能选校 Agent](https://github.com/xiaogongzhuuu/tucebida-study-abroad)
+### [AI 智能选校测评](https://github.com/xiaogongzhuuu/study-abroad-evaluation)
 
-**DeepSeek · ChromaDB · FastAPI · SSE**
+**DeepSeek · FastAPI · SQLite · Docker**
 
-面向留学顾问的 RAG 选校系统，包含学生画像提取、混合检索、匹配排序与流式报告生成。
+面向留学咨询业务的轻量 AI 应用，将背景测评、报告解锁、线索沉淀和顾问跟进连接成完整流程。
 
-- 整理并入库 116 个研究生项目，覆盖英港新 33 所院校
-- 结合向量检索与元数据过滤生成可解释的推荐结果
-- 实现冲刺、匹配、保底分级与 SSE 流式输出
+- 对模型生成的档位、数量、空值和重复院校进行结构化校验
+- 通过服务端报告 ID 关联测评结果与联系方式
+- 支持顾问后台、CSV 导出、企业微信和邮件通知
+- 提供自动化测试、接口限流、数据库备份与 HTTPS 部署模板
 
-### MDT 医疗多智能体平台
+### [MDT 医疗多智能体平台](https://github.com/rickyxcoder/mdtagentplatform)
 
 **LangGraph · LangChain · pgvector · PostgreSQL**
 
-参与医学文献知识检索模块开发，将 RAG 能力接入多智能体协作流程。
+参与医学文献知识检索与知识图谱功能开发，将 RAG 能力接入多智能体协作和病例评测流程。
 
 - 实现医学 PDF 分块、Embedding、pgvector 索引与语义检索
-- 将检索能力封装为 LangGraph 文献子智能体工具
-- 支持按文献过滤，并在向量服务不可用时降级检索
-- 整理并接入 190 篇乳腺癌临床文献
+- 将文献检索封装为可由 Host Agent 调用的工具
+- 结合向量检索、全文检索与 RRF 融合，并支持检索降级
+- 参与文献知识图谱、证据浏览和平台功能迭代
 
-### [AI 智能选校测评](https://github.com/xiaogongzhuuu/study-abroad-evaluation)
+### [智能选校 Agent](https://github.com/xiaogongzhuuu/tucebida-study-abroad)
 
-**DeepSeek · FastAPI · SQLite · JavaScript**
+**DeepSeek · BGE-M3 · ChromaDB · FastAPI**
 
-面向留学业务的轻量 AI 应用，覆盖测评、报告解锁、线索入库与顾问跟进。
+面向留学顾问的 RAG 选校原型，探索如何把院校项目资料和历史案例转化为推荐依据。
 
-- 服务端保存报告并关联联系方式
-- 支持企业微信和邮件异步通知
-- 提供线索管理后台、CSV 导出、自动化测试与冒烟测试
+- 整理并统一 116 个研究生项目，覆盖英港新 33 所院校
+- 结合向量检索、元数据过滤与规则评分召回候选项目
+- 实现学生画像提取、冲刺 / 匹配 / 保底分级和 SSE 流式报告
 
 ### [医学知识图谱与 RAG 问答](https://github.com/xiaogongzhuuu/data-mining-course)
 
@@ -47,9 +48,17 @@
 
 ## Tech Stack
 
-Python · FastAPI · LangChain · LangGraph · DeepSeek · Qwen<br>
-RAG · ReAct · Tool Calling · ChromaDB · pgvector · FAISS<br>
-PostgreSQL · SQLite · SSE · JavaScript · Docker · Git
+**AI Application**
+
+LLM · RAG · Agent · LangGraph · ReAct · Tool Calling · Evaluation
+
+**Backend & Retrieval**
+
+Python · FastAPI · PostgreSQL · SQLite · pgvector · ChromaDB · FAISS
+
+**Product & Delivery**
+
+SSE · JavaScript · Docker · Git
 
 ## Elsewhere
 
