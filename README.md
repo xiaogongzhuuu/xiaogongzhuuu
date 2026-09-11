@@ -1,10 +1,8 @@
 # Siyuan Cao
 
-**AI 应用开发 · LLM Agent · RAG**
+**AI 应用工程 · Agent · RAG**
 
 上海大学人工智能专业本科生。主要使用 Python 和 FastAPI 构建大模型应用，关注 Agent、知识检索与 AI 产品工程。
-
-我也在记录技术浪潮如何进入真实世界，以及身处其中的人如何理解自己的位置。
 
 ## Projects
 
@@ -44,15 +42,15 @@
 
 **AI Application**
 
-LLM · RAG · Agent · LangGraph · ReAct · Tool Calling · Evaluation
+RAG · Agent · LangGraph · Tool Calling · Evaluation
 
 **Backend & Retrieval**
 
 Python · FastAPI · PostgreSQL · SQLite · pgvector · ChromaDB · FAISS
 
-**Product & Delivery**
+**Engineering & Delivery**
 
-SSE · JavaScript · Docker · Git
+Docker · Git · SSE · JavaScript
 
 ## Elsewhere
 
