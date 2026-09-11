@@ -54,6 +54,6 @@ Docker · Git · SSE · JavaScript
 
 ## Elsewhere
 
-[博客：一只老红薯](https://xiaogongzhuuu.github.io/) · [小红书：一只老红薯](https://www.xiaohongshu.com/user/profile/6301d55f0000000012001c6a)
+[小红书：一只老红薯](https://www.xiaohongshu.com/user/profile/6301d55f0000000012001c6a)
 
 写技术，也记录 AI 浪潮之下尚未想明白的问题。
