@@ -2,11 +2,11 @@
 
 上海大学人工智能本科生，关注多智能体协作、RAG、Agent 工程与知识图谱。
 
-📕 [小红书](https://www.xiaohongshu.com/user/profile/6301d55f0000000012001c6a)
+<a href="https://www.xiaohongshu.com/user/profile/6301d55f0000000012001c6a"><img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" alt="小红书" width="18" height="18"> 小红书</a>
 
 ## 项目
 
-### MDT 医疗多智能体平台
+### [MDT 医疗多智能体平台](https://github.com/xiaogongzhuuu/mdtagentplatform)
 
 **LangGraph · LangChain · pgvector · PostgreSQL**
 
@@ -35,9 +35,3 @@
 - 支持自动运行与分步确认，逐轮查看请求和响应
 - 调整工具描述与顺序，比较相同问题下的工具选择
 - 使用 DeepSeek 生成工具调用，结合演示数据呈现完整执行循环
-
-## 技术栈
-
-**AI 与检索：** LangGraph · LangChain · RAG · Tool Calling · DeepSeek · BGE-M3 · ChromaDB<br>
-**后端与数据：** Python · FastAPI · PostgreSQL · pgvector · SSE<br>
-**前端与交互：** TypeScript · React · Next.js · JavaScript
