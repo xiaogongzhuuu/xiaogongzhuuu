@@ -2,7 +2,7 @@
 
 上海大学人工智能本科生，关注多智能体协作、RAG、Agent 工程与知识图谱。
 
-[小红书](https://www.xiaohongshu.com/user/profile/6301d55f0000000012001c6a)
+📕 [小红书](https://www.xiaohongshu.com/user/profile/6301d55f0000000012001c6a)
 
 ## 项目
 
@@ -26,7 +26,7 @@
 - 结合向量检索、元数据过滤与规则评分召回候选项目
 - 实现学生画像提取、冲刺 / 匹配 / 保底分级和 SSE 流式报告
 
-### Agent Trace Lab
+### [Agent Trace Lab](https://github.com/xiaogongzhuuu/agent-trace-lab)
 
 **DeepSeek · Tool Calling · ReAct · Next.js · TypeScript**
 
@@ -38,6 +38,6 @@
 
 ## 技术栈
 
-- **AI 与检索：** LangGraph · LangChain · RAG · Tool Calling · DeepSeek · BGE-M3 · ChromaDB
-- **后端与数据：** Python · FastAPI · PostgreSQL · pgvector · SSE
-- **前端与交互：** TypeScript · React · Next.js · JavaScript
+**AI 与检索：** LangGraph · LangChain · RAG · Tool Calling · DeepSeek · BGE-M3 · ChromaDB<br>
+**后端与数据：** Python · FastAPI · PostgreSQL · pgvector · SSE<br>
+**前端与交互：** TypeScript · React · Next.js · JavaScript
