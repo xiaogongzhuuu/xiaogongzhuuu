@@ -26,7 +26,7 @@
 - 结合向量检索、元数据过滤与规则评分召回候选项目
 - 实现学生画像提取、冲刺 / 匹配 / 保底分级和 SSE 流式报告
 
-### [Agent Trace Lab](https://github.com/xiaogongzhuuu/agent-trace-lab)
+### [Agent 调用可视化实验台](https://github.com/xiaogongzhuuu/agent-trace-lab)
 
 **DeepSeek · Tool Calling · ReAct · Next.js · TypeScript**
 
