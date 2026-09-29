@@ -2,8 +2,6 @@
 
 上海大学人工智能本科生，关注多智能体协作、RAG、Agent 工程与知识图谱。
 
-<a href="https://www.xiaohongshu.com/user/profile/6301d55f0000000012001c6a"><img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" alt="小红书" width="18" height="18"> 小红书</a>
-
 ## 项目
 
 ### [MDT 医疗多智能体平台](https://github.com/xiaogongzhuuu/mdtagentplatform)
